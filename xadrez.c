@@ -12,8 +12,6 @@
 #define USERNAME_SIZE 50
 #define MAX_PASSWORD_SIZE 20
 #define FILENAME_USERS "usuarios.txt"
-#define FILENAME_STATS "estatisticas.txt"
-
 
 typedef struct {
     char username[USERNAME_SIZE];
